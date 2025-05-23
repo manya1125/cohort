@@ -1,2 +1,2 @@
-   console.log("AlphaIntern".startsWith("Alpha")); // true
+   console.log("AlphaIntern".startsWith("Alpha")); 
    

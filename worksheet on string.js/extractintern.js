@@ -1,0 +1,1 @@
+   console.log("AlphaIntern".substring(5)); 
